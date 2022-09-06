@@ -1,2 +1,2 @@
-this is new git repo
+This is new git repo
 Learning git and github.
